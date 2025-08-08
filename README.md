@@ -12,9 +12,9 @@
 I am a **Holberton School** student passionate about software development.  
 
 ###  Skills  
-- **Languages**: C, Python  
-- **Key concepts learned**: algorithms, data structures, object-oriented programming, software architecture  
-- **Tools**: Git, GitHub, Linux, MySQL  
+- **Languages:** C, Python  
+- **Key concepts learned:** algorithms, data structures, object-oriented programming, software architecture  
+- **Tools:** Git, GitHub, Linux, MySQL  
 
 ###  Key Project  
 - **HBNB Clone**  
