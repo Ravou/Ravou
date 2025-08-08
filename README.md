@@ -9,25 +9,9 @@
 
 I am a **Holberton School** student passionate about software development.  
 
-<table style="border: none;">
-  <tr>
-    <td valign="top" width="50%" style="border: none; padding-right: 20px;">
 
-### Skills  
-- **Languages:** C, Python  
-- **Key concepts learned:** algorithms, data structures, object-oriented programming, software architecture  
-- **Tools:** Git, GitHub, Linux, MySQL  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical)
 
-    </td>
-    <td valign="top" width="50%" style="border: none;">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-    
-  </tr>
-</table>
 
 
 ###  Key Project  
