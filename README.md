@@ -9,9 +9,9 @@
 
 I am a **Holberton School** student passionate about software development.  
 
-<table>
+<table style="border: none;">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: none; padding-right: 20px;">
 
 ### Skills  
 - **Languages:** C, Python  
@@ -19,13 +19,13 @@ I am a **Holberton School** student passionate about software development.
 - **Tools:** Git, GitHub, Linux, MySQL  
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: none;">
 
-### Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+    
   </tr>
 </table>
 
