@@ -7,7 +7,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravou&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Ravou&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravou&theme=dark)
 
 I am a **Holberton School** student passionate about software development.  
 
