@@ -22,7 +22,7 @@ I am a **Holberton School** student passionate about software development.
     <td valign="top" width="50%" style="border: none;">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </p>
 
     
