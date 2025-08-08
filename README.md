@@ -5,14 +5,8 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 ![Linux](https://img.shields.io/badge/OS-Linux-black)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravou&show_icons=true&theme=radical)
 
 I am a **Holberton School** student passionate about software development.  
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical)
-
-
 
 ###  Key Project  
 - **HBNB Clone**  
@@ -35,3 +29,8 @@ A comprehensive collection of my Python exercises, covering topics from basics t
 
 
 *Goal: keep improving my skills in C, Python, and web development, and contribute to collaborative projects.*
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravou&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical)
+
