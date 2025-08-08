@@ -28,8 +28,8 @@ All my C programming exercises, focusing on low-level programming, memory manage
 A comprehensive collection of my Python exercises, covering topics from basics to advanced concepts.
 
 
-*Goal: keep improving my skills in C, Python, and web development, and contribute to collaborative projects.* <br>
-
+*Goal: keep improving my skills in C, Python, and web development, and contribute to collaborative projects.* 
+<br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravou&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical)
