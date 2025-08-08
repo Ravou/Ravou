@@ -5,6 +5,10 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 ![Linux](https://img.shields.io/badge/OS-Linux-black)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravou&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravou&theme=radical)
+
 I am a **Holberton School** student passionate about software development.  
 
 ###  Skills  
