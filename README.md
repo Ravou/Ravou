@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I’m Letchy Olivia  
 
-<!--
-**Ravou/Ravou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Holberton School** student passionate about software development.  
 
-Here are some ideas to get you started:
+### 🛠 Skills  
+- **Languages**: C, Python  
+- **Key concepts learned**: algorithms, data structures, object-oriented programming, software architecture  
+- **Tools**: Git, GitHub, Linux, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Project  
+- **HBNB Clone**  
+  A complete project inspired by Airbnb, including:  
+  - UML diagram design  
+  - **Back-end** development in Python (Flask, data management)  
+  - **Front-end** creation in HTML/CSS/JS
+  - MySQL database integration  
+
+📌 *Goal: keep improving my skills in C, Python, and web development, and contribute to collaborative projects.*
