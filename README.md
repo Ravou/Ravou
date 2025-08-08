@@ -19,11 +19,11 @@ I am a **Holberton School** student passionate about software development.
 
   ## Featured Projects
 
-### 🛠 C Programming Exercises  
+### C Programming Exercises  
 [holbertonschool-low_level_programming](https://github.com/Ravou/holbertonschool-low_level_programming)  
 All my C programming exercises, focusing on low-level programming, memory management, and system programming.
 
-### 🐍 Python Exercises  
+### Python Exercises  
 [holbertonschool-higher_level_programming](https://github.com/Ravou/holbertonschool-higher_level_programming)  
 A comprehensive collection of my Python exercises, covering topics from basics to advanced concepts.
 
