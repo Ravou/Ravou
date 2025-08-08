@@ -6,15 +6,30 @@
 ![Linux](https://img.shields.io/badge/OS-Linux-black)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravou&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical)
-
 
 I am a **Holberton School** student passionate about software development.  
 
-###  Skills  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### Skills  
 - **Languages:** C, Python  
 - **Key concepts learned:** algorithms, data structures, object-oriented programming, software architecture  
 - **Tools:** Git, GitHub, Linux, MySQL  
+
+    </td>
+    <td valign="top" width="50%">
+
+### Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+    </td>
+  </tr>
+</table>
+
 
 ###  Key Project  
 - **HBNB Clone**  
