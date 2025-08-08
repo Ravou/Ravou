@@ -26,7 +26,6 @@ I am a **Holberton School** student passionate about software development.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-    </td>
   </tr>
 </table>
 
