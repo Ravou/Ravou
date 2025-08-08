@@ -31,6 +31,8 @@ A comprehensive collection of my Python exercises, covering topics from basics t
 *Goal: keep improving my skills in C, Python, and web development, and contribute to collaborative projects.* 
 <br>
 <br>
+<br>
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravou&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravou&layout=compact&theme=radical)
 
